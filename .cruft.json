@@ -1,0 +1,39 @@
+{
+  "template": "https://github.com/cookiecutter/cookiecutter-django.git",
+  "commit": "a39af939e29935c365ab842e1a14b533290a231e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "invictus",
+      "project_slug": "invictus",
+      "description": "A framework for jump-starting production-ready Django Ninja projects quickly.",
+      "author_name": "Joker",
+      "domain_name": "invictuslab.cn",
+      "email": "invictuslab001@gmail.com",
+      "version": "0.1.0",
+      "open_source_license": "MIT",
+      "username_type": "username",
+      "timezone": "Asia/Shanghai",
+      "windows": "n",
+      "editor": "PyCharm",
+      "use_docker": "y",
+      "postgresql_version": "17",
+      "cloud_provider": "AWS",
+      "mail_service": "Mailgun",
+      "use_async": "y",
+      "use_drf": "n",
+      "frontend_pipeline": "None",
+      "use_celery": "y",
+      "use_mailpit": "y",
+      "use_sentry": "y",
+      "use_whitenoise": "n",
+      "use_heroku": "n",
+      "ci_tool": "Github",
+      "keep_local_envs_in_vcs": "y",
+      "debug": "n",
+      "_template": "https://github.com/cookiecutter/cookiecutter-django.git",
+      "_commit": "a39af939e29935c365ab842e1a14b533290a231e"
+    }
+  },
+  "directory": null
+}

@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=invictus
+POSTGRES_USER=FlNPOuVjihZWiekHJnJozlgaKbUbEgYb
+POSTGRES_PASSWORD=rNObCfgr5CHvM0hZmrRztP3ZLHvb4Lu3M7MiqXgLZowOzMJo0fPBpwjmscVRv3WD
