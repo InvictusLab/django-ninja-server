@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=tetete
+POSTGRES_USER=HewdMfymtHGyrsgSEFqkIdPqbYunCwEq
+POSTGRES_PASSWORD=H4gUXNt3bJVujRlHXMsAqdYsxoEleO4Agy2pQt2yJ6c63SSaq4d0aQHRzwE0QewP
