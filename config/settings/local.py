@@ -29,7 +29,7 @@ CACHES = {
 # EMAIL
 # ------------------------------------------------------------------------------
 # https://docs.djangoproject.com/en/dev/ref/settings/#email-host
-EMAIL_HOST = env("EMAIL_HOST", default="0.0.0.0")
+EMAIL_HOST = env("EMAIL_HOST", default="0.0.0.0")  # noqa: S104 Possible binding to all interfaces
 # https://docs.djangoproject.com/en/dev/ref/settings/#email-port
 EMAIL_PORT = env("EMAIL_PORT", default=51025)
 
